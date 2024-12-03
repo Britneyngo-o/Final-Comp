@@ -43,3 +43,6 @@ You calculate and display:
 R-squared: A measure of how well the model fits the data.
 Regression Equation: Shows the relationship between "Days" and "Time Study" as a mathematical formula.
 This summary helps interpret the overall effectiveness of the model and provides insights into the behavior of the data.
+
+video link
+https://youtu.be/vfxlhDXxVNQ
